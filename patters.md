@@ -1,5 +1,6 @@
 ---
 title: Foo
+layout: default
 ---
 
 Blobby
