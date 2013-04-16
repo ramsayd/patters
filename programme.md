@@ -1,5 +1,5 @@
 ---
-title: Foo
+title: Programme
 layout: page
 ---
 
