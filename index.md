@@ -1,8 +1,10 @@
 ---
-title: About Us
+title: Home
 layout: page
 aside: and then some
 ---
+
+Social Ballroom, Latin and Sequence Dancing
 
 <article class="grid_3">
 	<h3>Some</h3>
