@@ -1,5 +1,5 @@
 ---
-title: Information
+title: More Information
 layout: page
 ---
 
