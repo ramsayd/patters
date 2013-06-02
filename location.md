@@ -19,5 +19,6 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 	</dl>
 </article>
 <article class="grid_10">
+When leaving drive up to the gate slowly and it will open automatically
 	<img width="500" src="images/patters_parking_map.jpg"/>
 </article>
