@@ -21,4 +21,5 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 </article>
 <article class="grid_10">
 	<h3 class="p2">Directions</h3>
+	<img src="images/pic-1.gif"/>
 </article>
