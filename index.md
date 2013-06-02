@@ -8,10 +8,10 @@ aside: and then some
 <img width="500" src="images/dancefloor.jpg"/>
 
 <article class="grid_3"><dl>
-	<h4><dt>Virtually every Friday.</dt>
+	<dt>Virtually every Friday.</dt>
 	<dt>Known non dancing nights:</dt>
 	<dt>27/12/2013</dt>
-	<dt>18/04/2014</dt></h4></dl>
+	<dt>18/04/2014</dt></dl>
 </article>
 <article class="grid_6">
 	<h2>Other</h2>
