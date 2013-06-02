@@ -7,11 +7,11 @@ aside: and then some
 <h3>Social Ballroom, Latin and Sequence Dancing</h3>
 <img width="500" src="images/dancefloor.jpg"/>
 
-<article class="grid_3">
-	Virtually every Friday.
-	Known non dancing nights:
-	27/12/2013
-	18/04/2014
+<article class="grid_3"><dl>
+	<dt>Virtually every Friday.</dt>
+	<dt>Known non dancing nights:</dt>
+	<dt>27/12/2013</dt>
+	<dt>18/04/2014</dt>
 </article>
 <article class="grid_6">
 	<h2>Other</h2>
