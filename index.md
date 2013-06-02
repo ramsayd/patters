@@ -11,7 +11,7 @@ aside: and then some
 	<dt>Virtually every Friday.</dt>
 	<dt>Known non dancing nights:</dt>
 	<dt>27/12/2013</dt>
-	<dt>18/04/2014</dt>
+	<dt>18/04/2014</dt></dl>
 </article>
 <article class="grid_6">
 	<h2>Other</h2>
