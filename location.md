@@ -22,3 +22,8 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 When leaving drive up to the gate slowly and it will open automatically
 	<img width="500" src="images/patters_parking_map.jpg"/>
 </article>
+•	In South/ South West London
+•	4 miles from Croydon
+•	2 miles from Sutton
+•	3 miles from Mitcham
+
