@@ -19,6 +19,6 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 		<dd><span>E-mail:</span> <a href="#">mail@example.com</a></dd>
 	</dl>
 </article>
-<article class="grid_8">
+<article class="grid_10">
 	<h3 class="p2">Directions</h3>
 </article>
