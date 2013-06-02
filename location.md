@@ -5,7 +5,7 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 ---
 
 
-<article class="grid_4">
+<article class="grid_4" float="left">
 	<dl>
 		<strong class="color-3"><dt>Carshalton High School for Girls,</dt>
 	<dt>West Street,</dt>
