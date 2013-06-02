@@ -8,8 +8,10 @@ aside: and then some
 <img width="500" src="images/dancefloor.jpg"/>
 
 <article class="grid_3">
-	<h3>Some</h3>
-	Nostrud exercn ullamco laboris nisi ut aliquip ex ea commodo.
+	Virtually every Friday.
+	Known non dancing nights:
+	27/12/2013
+	18/04/2014
 </article>
 <article class="grid_6">
 	<h2>Other</h2>
