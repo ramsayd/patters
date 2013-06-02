@@ -5,7 +5,7 @@ aside: and then some
 ---
 
 <h3>Social Ballroom, Latin and Sequence Dancing</h3>
-<img width="500" src="imsages/dancefloor.jpg"/>
+<img width="500" src="images/dancefloor.jpg"/>
 
 <article class="grid_3">
 	<h3>Some</h3>
