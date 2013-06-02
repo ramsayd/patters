@@ -20,6 +20,5 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 	</dl>
 </article>
 <article class="grid_10">
-	<h3 class="p2">Directions</h3>
-	<img width="400" src="images/patters_parking_map.jpg"/>
+	<img width="500" src="images/patters_parking_map.jpg"/>
 </article>
