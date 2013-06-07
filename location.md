@@ -4,8 +4,9 @@ layout: page
 aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpjs 
 ---
 
-
-<article class="grid_4">
+<div class="grid_4">
+<div>
+<article>
 	<dl>
 		<strong class="color-3"><dt>Carshalton High School for Girls,</dt>
 	<dt>West Street,</dt>
@@ -18,10 +19,14 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 	</figure>
 	</dl>
 </article>
-<article class="grid_10">
+</div>
+<div>
+<article>
 When leaving drive up to the gate slowly and it will open automatically
 	<img width="500" src="images/patters_parking_map.jpg"/>
 </article>
+</div>
+</div>
 •	In South/ South West London
 •	4 miles from Croydon
 •	2 miles from Sutton
