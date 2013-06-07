@@ -5,7 +5,7 @@ aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpj
 ---
 
 <div class="grid_4">
-	<div class="left_container">
+	<div class="left-container">
 		<article>
 			<dl>
 				<strong class="color-3">
