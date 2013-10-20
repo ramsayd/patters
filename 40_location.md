@@ -4,7 +4,7 @@ layout: page
 permalink: "location.html"
 ---
 
-<div class="grid_4">
+<div class="grid_6">
 	<div class="left-container">
 		<article>
 			<dl>
@@ -22,16 +22,17 @@ permalink: "location.html"
 			</dl>
 		</article>
 	</div>
-	<div>
-		<article>
-			When leaving drive up to the gate slowly and it will open automatically
-			<img width="500" src="images/patters_parking_map.jpg"/>
-		</article>
-	</div>
-	•	In South/ South West London
+</div>
+<div class="grid_6">
+	<article>
+		When leaving drive up to the gate slowly and it will open automatically
+		<img width="500" src="images/patters_parking_map.jpg"/>
+	</article>
+</div>	
+•	In South/ South West London
 •	4 miles from Croydon
 •	2 miles from Sutton
 •	3 miles from Mitcham
-</div>
+
 
 
