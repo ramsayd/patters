@@ -28,4 +28,4 @@ School Rules
 <li>•	Nothing to be put on the floors or shoes  i.e. Talc, Linseed oil</li>
 </ul>
 
-<div class="information-header/>
+<div class="information-header"/>
