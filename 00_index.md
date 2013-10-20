@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: page
-aside: and then some
 permalink: "index.html"
 ---
 
