@@ -23,9 +23,10 @@ permalink: "location.html"
 				</div>
 			</div>
 			<div class="grid_6">
-				<article class="color-3">
+				<article >
+				<strong class="color-3">
 					When leaving drive up to the gate slowly and it will open automatically
-			
+				</strong>
 				</article>
 			</div>
 		</div>
