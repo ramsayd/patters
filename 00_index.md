@@ -18,7 +18,3 @@ permalink: "index.html"
 	<dl><dt>£6 per person</dt>
 	<dt>Bring your own drinks</dt></dl>
 </article>
-<article class="grid_3">
-	<h3>Heading</h3>
-	Nostrud exercn ullamco laboris nisi ut aliquip ex ea commodo.
-</article>
