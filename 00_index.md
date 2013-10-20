@@ -10,10 +10,9 @@ permalink: "index.html"
 	<dt class="heading-text">Virtually every Friday.</dt>
 	<dt>20:00 to 22:45</dt>
 	<dt class="heading-text">Known non dancing nights:</dt>
-	<dt>27/12/2013</dt>
-	<dt>18/04/2014</dt></dl>
-</article>
-<article class="grid_6">
+	<dt>27th December 2013</dt>
+	<dt>18th April 2014</dt></dl>
+
 	<dl><dt>£6 per person</dt>
 	<dt>Bring your own drinks</dt></dl>
 </article>
