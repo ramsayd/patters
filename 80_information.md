@@ -18,9 +18,8 @@ A typical evening <br>
 8 to 9:30; a mixture of Ballroom and Latin, 9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed.
 </br></p>
 <p>
-School Rules<br>
+School Rules
 <ul>
 <li>•	No smoking on site, including in your car whilst on the premises</li>
 <li>•	Nothing to be put on the floors or shoes  i.e. Talc, Linseed oil</li>
-</ul>
-</br></p>
+</ul></p>
