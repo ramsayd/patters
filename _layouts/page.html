@@ -17,7 +17,8 @@
 							<div class="grid_12">
 								<nav class="wrapper">
 									<ul class="menu">
-                    {% for node in site.pages | sort:"name" %}
+		    {% assign sorted_pages = site.pages | sort:"name" %}
+                    {% for node in sorted_pages %}
                       {% if page.url == node.url %}
                         <li {% if forloop.last %}class="active"{% endif %}><a class="active" href="{{node.url}}" class="active">{{node.title}}</a></li>
                       {% else %}
