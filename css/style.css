@@ -274,3 +274,7 @@ a:hover,.menu li a,.list-1 li a,.list-2 li a,.link,.button,.logo,.footer-text a
   color:#fff;
 }
 
+.logo
+{
+  background-size: 50% 50%;
+}
