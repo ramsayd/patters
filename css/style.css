@@ -142,9 +142,9 @@ header
 
 .menu li a.active,.menu li a:hover
 {
-  color:#3300CC;
+  color:#fff;
   background-position:left top;
-  background-color:#171717;
+  background-color:#3300CC;
   box-shadow:0 0 4px rgba(0,0,0,0.20);
   -moz-box-shadow:0 0 4px rgba(0,0,0,0.8);
   -webkit-box-shadow:0 0 4px rgba(0,0,0,9);
