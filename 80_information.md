@@ -13,12 +13,7 @@ permalink: "information.html"
 <li>•	Not affiliated to any dance school; so dance teachers encourage your pupils to attend to practice what you have taught them, in a friendly, un-crowded social environment.</li>
 </ul>
 
-<div class="typical-evening-header">
-A typical evening
-</div>
-<ul><li>
-8 to 9:30; a mixture of Ballroom and Latin, 9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed.
-</li><ul>
+
 
 <div class="school-rules-header">
 School Rules
