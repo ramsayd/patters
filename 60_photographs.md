@@ -4,6 +4,6 @@ layout: page
 permalink: "photographs.html"
 ---
 
-Blobby
+Watch this space
 ======
-Hello, world
+To follow
