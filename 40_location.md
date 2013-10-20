@@ -54,7 +54,7 @@ permalink: "location.html"
 		</div>
 	</div>
 	
-	<ul>
+	<ul style="padding-top:5px">
 <li>•	In South/ South West London</li>
 <li>•	4 miles from Croydon</li>
 <li>•	2 miles from Sutton</li>
