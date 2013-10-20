@@ -20,7 +20,7 @@ A typical evening
 8 to 9:30; a mixture of Ballroom and Latin, 9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed.
 </li><ul>
 
-<div class=school-rules-header>
+<div class="school-rules-header">
 School Rules
 </div>
 <ul>
