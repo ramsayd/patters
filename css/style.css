@@ -155,6 +155,12 @@ h1
   padding:31px 0 0 2px;
 }
 
+.dance-header
+{
+  position:relative;
+  padding:3px 0 0 2px;
+}
+
 #page1 h1
 {
   padding:31px 0 0 49px;
