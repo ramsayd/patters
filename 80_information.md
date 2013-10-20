@@ -1,6 +1,7 @@
 ---
 title: More Information
 layout: page
+permalink: "information.html"
 ---
 
 • This is a social dance and whilst it is open to anybody, realistically only those with dancing partners or groups come and therefor those without a partner are unlikely to get many/any dances. 
