@@ -2,6 +2,7 @@
 title: Home
 layout: page
 aside: and then some
+permalink: "index.html"
 ---
 
 <h3>Social Ballroom, Latin and Sequence Dancing</h3>
