@@ -11,6 +11,7 @@ permalink: "information.html"
 <li>•	A nice large hall: there is over 200 square metres of danceable floor, in a hall of over 300 square meters.</li>
 <li>• A high quality dance floor in good condition.</li>
 <li>•	Not affiliated to any dance school; so dance teachers encourage your pupils to attend to practice what you have taught them, in a friendly, un-crowded social environment.</li>
+</ul>
 
 A typical evening 
 8 to 9:30; a mixture of Ballroom and Latin, 9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed.
