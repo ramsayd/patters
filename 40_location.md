@@ -53,10 +53,13 @@ permalink: "location.html"
 			</div>
 		</div>
 	</div>
-•	In South/ South West London
-•	4 miles from Croydon
-•	2 miles from Sutton
-•	3 miles from Mitcham
+	
+	<ul>
+<li>•	In South/ South West London</li>
+<li>•	4 miles from Croydon</li>
+<li>•	2 miles from Sutton</li>
+<li>•	3 miles from Mitcham</li>
+</ul>
 </div>
 
 
