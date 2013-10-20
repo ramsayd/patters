@@ -39,7 +39,7 @@ permalink: "location.html"
 				
 
 							<figure>
-  								<iframe width="500" height="500" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=SM5+2QX&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=46.677964,93.076172&amp;ie=UTF8&amp;hq=&amp;hnear=SM5+2QX,+United+Kingdom&amp;ll=51.369632,-0.169295&amp;spn=0.004521,0.011362&amp;t=m&amp;z=17&amp;output=embed&amp;iwloc=near">&nbsp;</iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=SM5+2QX&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=46.677964,93.076172&amp;ie=UTF8&amp;hq=&amp;hnear=SM5+2QX,+United+Kingdom&amp;ll=51.369632,-0.169295&amp;spn=0.004521,0.011362&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+  								<iframe width="400" height="500" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=SM5+2QX&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=46.677964,93.076172&amp;ie=UTF8&amp;hq=&amp;hnear=SM5+2QX,+United+Kingdom&amp;ll=51.369632,-0.169295&amp;spn=0.004521,0.011362&amp;t=m&amp;z=17&amp;output=embed&amp;iwloc=near">&nbsp;</iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=SM5+2QX&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=46.677964,93.076172&amp;ie=UTF8&amp;hq=&amp;hnear=SM5+2QX,+United+Kingdom&amp;ll=51.369632,-0.169295&amp;spn=0.004521,0.011362&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 							</figure>
 						</dl>
 					</article>
@@ -48,7 +48,7 @@ permalink: "location.html"
 			<div class="grid_6">
 				<article>
 					
-					<img width="500" src="images/patters_parking_map.jpg"/>
+					<img width="400" src="images/patters_parking_map.jpg"/>
 				</article>
 			</div>
 		</div>
