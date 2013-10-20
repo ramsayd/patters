@@ -2,6 +2,7 @@
 title: Finding Us
 layout: page
 aside: <h3 class="p1">Miscellaneous Info</h3>stj sdf sdf s dfkojf sdf sdf, sdfpjs 
+permalink: "location.html"
 ---
 
 <div class="grid_4">
