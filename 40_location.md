@@ -21,15 +21,15 @@ permalink: "location.html"
 						</dl>
 					</article>
 				</div>
-			<div>
+			</div>
 			<div class="grid_6">
 				<article>
 					When leaving drive up to the gate slowly and it will open automatically
 			
 				</article>
 			</div>
-		<div>
-	<div>
+		</div>
+	</div>
 	<div class="container_12">
 		<div class="wrapper">
 			<div class="grid_6">
