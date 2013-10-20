@@ -22,5 +22,5 @@ School Rules<br>
 <ul>
 <li>•	No smoking on site, including in your car whilst on the premises</li>
 <li>•	Nothing to be put on the floors or shoes  i.e. Talc, Linseed oil</li>
-<ul>
+</ul>
 </br></p>
