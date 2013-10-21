@@ -13,7 +13,7 @@ permalink: "location.html"
 						<dl>
 							<strong class="color-3">
 							<dt>Carshalton High School for Girls,</dt>
-							<dt>West Street,</dt>
+							<dt>West Street, (entrance from Wrythe Lane)</dt>
 							<dt>Carshalton, </dt>
 							<dt>Surrey, </dt>
 							<dt>SM5 2QX</dt>
