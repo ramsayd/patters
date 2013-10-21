@@ -9,7 +9,6 @@ permalink: "information.html"
 <li>•	A range of abilities attend.</li>
 <li>•	Subdued Lighting - you can see where you are going and other people but don’t feel in the spot light.</li>
 <li>•	A nice large hall - there is over 200 square metres of danceable floor, in a hall of over 300 square meters.</li>
-<li>• A high quality dance floor in good condition.</li>
 <li>•	Not affiliated to any dance school - so dance teachers encourage your pupils to attend to practice what you have taught them, in a friendly, un-crowded social environment.</li>
 </ul>
 
