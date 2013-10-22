@@ -9,7 +9,6 @@ permalink: "index.html"
 <article class="grid_3"><dl>
 	<dl><dt>£6 per person</dt>
 	<dt>Bring your own drinks</dt>
-	<ul>
 	<dt>A high quality dance floor, in good condition</dt>
 	<dt class="heading-text">Virtually every Friday.</dt>
 	<dt>20:00 to 22:45</dt>
