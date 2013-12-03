@@ -4,8 +4,6 @@ layout: page
 permalink: "index.html"
 ---
 
-<img width="500" src="images/dancefloor.jpg"/>
-
 <article class="grid_3"><dl>
 	<dl><dt>£6 per person</dt>
 	<dt>Bring your own drinks</dt>
@@ -21,4 +19,8 @@ permalink: "index.html"
 	
 
 	</dl>
+</article>
+
+<article class="grid_6">
+	<img width="500" src="images/dancefloor.jpg"/>
 </article>
