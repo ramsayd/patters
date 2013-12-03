@@ -28,7 +28,7 @@ permalink: "index.html"
 <article class="grid_3">
 	<dl>
 	<dt><strong>A typical evening</strong></dt>
-	<dt>8 to 9:30 - a mixture of Ballroom and Latin</dt>
+	<dt>8 to 9:30 - a mixture of Ballroom and Latin dances</dt>
 	<dt class="marginT15">9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed</dt>
 	</dl>
 </article>
