@@ -24,3 +24,9 @@ permalink: "index.html"
 <article class="grid_6">
 	<img width="500" src="images/dancefloor.jpg"/>
 </article>
+
+<article class="grid_3">
+	<strong>A typical evening</strong>
+	<br />
+	8 to 9:30 - a mixture of Ballroom and Latin, 9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed.
+</article>
