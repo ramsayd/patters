@@ -14,13 +14,6 @@ permalink: "information.html"
 </ul>
 
 <div class="information-header">
-A typical evening
-</div>
-<ul><li>
-8 to 9:30 - a mixture of Ballroom and Latin, 9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed.
-</li></ul>
-
-<div class="information-header">
 School Rules
 </div>
 <ul>
