@@ -22,7 +22,7 @@ permalink: "index.html"
 </article>
 
 <article class="grid_6">
-	<img width="500" src="images/dancefloor.jpg"/>
+	<img width="100%" src="images/dancefloor.jpg"/>
 </article>
 
 <article class="grid_3">
