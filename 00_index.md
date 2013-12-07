@@ -13,7 +13,6 @@ permalink: "index.html"
 	<dt>Christmas Dance 20th December</dt>
 	<dt>19.30 to 23:15      £8</dt>
 	<dt class="heading-text non-dancing">Known non dancing nights</dt>
-	<dt>6th December 2013</dt>
 	<dt>27th December 2013</dt>
 	<dt>18th April 2014</dt></dl>
 	
