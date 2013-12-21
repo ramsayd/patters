@@ -10,8 +10,6 @@ permalink: "index.html"
 	<dt class="marginT15">A high quality dance floor, in good condition</dt>
 	<dt class="heading-text">Virtually every Friday.</dt>
 	<dt>20:00 to 22:45</dt>
-	<dt>Christmas Dance 20th December</dt>
-	<dt>19.30 to 23:15      £8</dt>
 	<dt class="heading-text non-dancing">Known non dancing nights</dt>
 	<dt>27th December 2013</dt>
 	<dt>18th April 2014</dt></dl>
