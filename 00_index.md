@@ -15,6 +15,7 @@ permalink: "index.html"
       <dt class="heading-text non-dancing">Known non dancing nights</dt>
       <dt>5th December 2014</dt>
       <dt>26th December 2014</dt>
+      <dt>2nd January 2015</dt>
     </dl>
   </dl>
 </article>
