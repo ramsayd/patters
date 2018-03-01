@@ -13,6 +13,8 @@ permalink: "index.html"
       <dt class="heading-text">Virtually every Friday.</dt>
       <dt>20:00 to 22:45</dt>
       <dt class="heading-text non-dancing">Known non dancing nights</dt>
+      <dt> 2nd March Due to bad weather</dt>
+      <dt> 9th March School using the hall for a play</dt>
             <dt> Good Friday, 30th March</dt>
     </dl>
   </dl>
