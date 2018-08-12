@@ -13,7 +13,7 @@ permalink: "index.html"
       <dt class="heading-text">Virtually every Friday.</dt>
       <dt>20:00 to 22:45</dt>
       <dt class="heading-text non-dancing">Known non dancing nights</dt>
-                  <dt> Friday, 28th December</dt>
+                  <dt> Friday, 17th August</dt>
     </dl>
   </dl>
 </article>
