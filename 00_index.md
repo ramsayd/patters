@@ -11,7 +11,7 @@ permalink: "index.html"
       <dt>Bring your own drinks</dt>
       <dt class="marginT15">A high quality dance floor, in good condition</dt>
       <dt class="heading-text">Virtually every Friday.</dt>
-      <dt>20:00 to 22:45</dt>
+      <dt>20:00 to 22:30</dt>
       <dt class="heading-text non-dancing">Known non dancing nights</dt>
                   <dt> "8th February</dt>
                   <dt> "10th April, Good Friday</dt>
