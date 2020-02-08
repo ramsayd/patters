@@ -13,7 +13,8 @@ permalink: "index.html"
       <dt class="heading-text">Virtually every Friday.</dt>
       <dt>20:00 to 22:45</dt>
       <dt class="heading-text non-dancing">Known non dancing nights</dt>
-                  <dt> None known</dt>
+                  <dt> "8th February</dt>
+                  <dt> "10th April, Good Friday</dt>
          </dl>
   </dl>
 </article>
@@ -26,6 +27,6 @@ permalink: "index.html"
   <dl>
     <dt><strong>A typical evening</strong></dt>
     <dt>8 to 9:30 - a mixture of Ballroom and Latin dances</dt>
-    <dt class="marginT15">9:30 to 10:45 continues with Ballroom and Latin but with a variety of Sequence dances intermixed</dt>
+    <dt class="marginT15">9:30 to 10:30 continues with Ballroom and Latin but with a variety of Sequence dances intermixed</dt>
   </dl>
 </article>
