@@ -13,7 +13,7 @@ permalink: "index.html"
       <dt class="heading-text">Cancelled until further notice due to Coronavirus</dt>
       <dt>20:00 to 22:30</dt>
       <dt class="heading-text non-dancing">Sorry No dances</dt>
-                        <dt> until furtehr notice</dt>
+                        <dt> until further notice</dt>
          </dl>
   </dl>
 </article>
